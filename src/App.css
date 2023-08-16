@@ -19,7 +19,9 @@ html {
 }
 
 .app__logo{
-  height: 12vh
+  height: 12vh;
+  padding-left: 7%;
+  padding-bottom: 40%;
 }
 
 .app__videos {

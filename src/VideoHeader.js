@@ -7,7 +7,7 @@ function VideoHeader() {
   return (
     <div className='videoHeader'>
       <ArrowBackIosNewIcon />
-      <h3>Reels</h3>
+      <h3>QuickTakes</h3>
       <CameraAltIcon />
     </div>
   )

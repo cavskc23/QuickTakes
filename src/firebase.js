@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional.
 const firebaseConfig = {
   apiKey: "AIzaSyDPHvKt678guNhzEyGD3s15ZrTALm7oyIM",
   authDomain: "ig-reels-fabdf.firebaseapp.com",
